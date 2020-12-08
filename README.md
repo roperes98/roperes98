@@ -37,6 +37,7 @@ https://roperes98.github.io
 <img src="https://github.com/roperes98/github-explorer/blob/master/src/assets/github-explorer.png" width="512" >
 
 ⠀
+## Status and Social Media
 
 [![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=roperes98)](https://github.com/roperes98/github-readme-stats)
 
