@@ -36,6 +36,8 @@ https://roperes98.github.io
 ## Examples of Work
 <img src="https://github.com/roperes98/github-explorer/blob/master/src/assets/github-explorer.png" width="512" >
 
+⠀
+
 [![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=roperes98)](https://github.com/roperes98/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/roperes98)⠀
