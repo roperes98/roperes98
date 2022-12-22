@@ -1,5 +1,7 @@
 # Rodrigo Peres
 
+Web Developer
+
 [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Peres-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roperes98/)](https://www.linkedin.com/in/roperes98/) 
 [![Gmail Badge](https://img.shields.io/badge/-roperes98@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roperes98@gmail.com)](mailto:diego.schell.f@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@rodrigo.svg-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigo.svg)](https://www.instagram.com/rodrigo.svg) 
