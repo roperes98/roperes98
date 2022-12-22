@@ -1,17 +1,12 @@
 ![Design and Development](assets/cover.png)
 
 # Rodrigo Peres
-## Sobre mim - About Me
+## About Me
 
-> [English]
-> <br>
-> I'm Rodrigo from Brazil, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as Python. I also enjoy wireframing, ui, ux, and design in general. 
+I am a full-stack developer with a passion for building scalable, performant web and mobile applications. My primary areas of expertise are ReactJS, React Native, and Node.js.
 
-> [Português]
-> <br>
-> Meu nome é Rodrigo, sou do brasileiro, e faço conteúdo sobre Design e Desenvolvimento. Eu realmente gosto de aprender linguagens e estruturas como React e React Native, bem como Python. Também gosto de wireframing, ui, ux e design em geral.
+I have experience building and maintaining a wide range of applications, from simple static websites to complex, data-driven web and mobile applications. I am comfortable working with a variety of technologies and frameworks, including Git, HTML, CSS, JavaScript, and various back-end technologies such as Node.js and Express.
 
-⠀
 
 ## Skills and Experience
 > <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width="24">  ReactJS <br>
@@ -26,20 +21,11 @@
 > <img src="https://miro.medium.com/max/383/1*co_1qORNdM0PI1nvCp7Iig.png" width="24">  Git <br>
 > <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png" width="24">  NodeJS <br>
 
-⠀
 
 <!-- ## Site
 https://roperes98.github.io
 
 ⠀ -->
-
-## Examples of Work
-<img src="https://github.com/roperes98/github-explorer/blob/master/src/assets/github-explorer.png" width="512" >
-
-⠀
-## Status and Social Media
-
-[![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=roperes98)](https://github.com/roperes98/github-readme-stats)
 
 [<img src='assets/github-logo.png' alt='github' height='40'>](https://github.com/roperes98)⠀
 [<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/roperes98/)⠀
