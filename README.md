@@ -10,4 +10,6 @@ As a React JS developer with over 3 years of experience, I am skilled in buildin
 
 I am passionate about constantly learning and staying up-to-date with the latest developments in the industry, and I am always looking for new opportunities to grow and improve as a developer. In addition to my technical skills, I am a strong team player and communicator, with the ability to work well with others to solve complex problems and deliver successful projects.
 
+"The more that you read, the more things you will know. The more that you learn, the more places you'll go." - Dr. Seuss
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00875f&height=120&section=footer"/>
